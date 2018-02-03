@@ -1,0 +1,24 @@
+{
+    "twentyOnePointsApp": {
+        "weight" : {
+            "home": {
+                "title": "Weights",
+                "createLabel": "Criar novo Weight",
+                "createOrEditLabel": "Criar ou editar Weight",
+                "search": "Pesquisar por Weight"
+            },
+            "created": "Um novo Weight foi criado com o identificador {{ param }}",
+            "updated": "Um Weight foi atualizado com o identificador {{ param }}",
+            "deleted": "Um Weight foi deletado com o identificador {{ param }}",
+            "delete": {
+                "question": "Tem certeza de que deseja excluir Weight {{ id }}?"
+            },
+            "detail": {
+                "title": "Weight"
+            },
+            "timestamp": "Timestamp",
+            "weight": "Weight",
+            "user": "User"
+        }
+    }
+}

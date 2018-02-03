@@ -1,0 +1,29 @@
+{
+    "fluentMethods": true,
+    "relationships": [
+        {
+            "relationshipName": "user",
+            "otherEntityName": "user",
+            "relationshipType": "one-to-one",
+            "otherEntityField": "login",
+            "ownerSide": true,
+            "otherEntityRelationshipName": "setting"
+        }
+    ],
+    "fields": [
+        {
+            "fieldName": "weeklyGoal",
+            "fieldType": "Integer"
+        },
+        {
+            "fieldName": "weightUnits",
+            "fieldType": "Integer"
+        }
+    ],
+    "changelogDate": "20180203182706",
+    "dto": "no",
+    "service": "no",
+    "entityTableName": "setting",
+    "jpaMetamodelFiltering": false,
+    "pagination": "pagination"
+}

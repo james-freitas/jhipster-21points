@@ -1,0 +1,24 @@
+{
+    "twentyOnePointsApp": {
+        "setting" : {
+            "home": {
+                "title": "Settings",
+                "createLabel": "Criar novo Setting",
+                "createOrEditLabel": "Criar ou editar Setting",
+                "search": "Pesquisar por Setting"
+            },
+            "created": "Um novo Setting foi criado com o identificador {{ param }}",
+            "updated": "Um Setting foi atualizado com o identificador {{ param }}",
+            "deleted": "Um Setting foi deletado com o identificador {{ param }}",
+            "delete": {
+                "question": "Tem certeza de que deseja excluir Setting {{ id }}?"
+            },
+            "detail": {
+                "title": "Setting"
+            },
+            "weeklyGoal": "Weekly Goal",
+            "weightUnits": "Weight Units",
+            "user": "User"
+        }
+    }
+}

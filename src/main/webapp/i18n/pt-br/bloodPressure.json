@@ -1,0 +1,25 @@
+{
+    "twentyOnePointsApp": {
+        "bloodPressure" : {
+            "home": {
+                "title": "Blood Pressures",
+                "createLabel": "Criar novo Blood Pressure",
+                "createOrEditLabel": "Criar ou editar Blood Pressure",
+                "search": "Pesquisar por Blood Pressure"
+            },
+            "created": "Um novo Blood Pressure foi criado com o identificador {{ param }}",
+            "updated": "Um Blood Pressure foi atualizado com o identificador {{ param }}",
+            "deleted": "Um Blood Pressure foi deletado com o identificador {{ param }}",
+            "delete": {
+                "question": "Tem certeza de que deseja excluir Blood Pressure {{ id }}?"
+            },
+            "detail": {
+                "title": "Blood Pressure"
+            },
+            "timestamp": "Timestamp",
+            "systolic": "Systolic",
+            "diastolic": "Diastolic",
+            "user": "User"
+        }
+    }
+}
